@@ -1,4 +1,10 @@
 # 100DaysOfCode-Flutter
-!00 days of code in Flutter. Starting from 7th March, 2023!
+100 days of code in Flutter. Starting from 7th March, 2023!
 <hr></hr>
-Click on the branches to move on to a specific date!
+<b>Day 1</b>
+<hr></hr>
+* Learnt about Functions in Dart 
+  - What is a Function?
+  - Specifying return DataType
+  - Specifying Input DataType
+  
