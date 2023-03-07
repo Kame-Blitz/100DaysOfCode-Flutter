@@ -1,5 +1,4 @@
 # Day 1 - 7th March, 2023
----
 **Learning Dart** - It was quite easy for me as I knew some Dart beforehand.
   * Learnt about Functions in Dart 
     * What are Functions?
@@ -24,7 +23,7 @@
   * Learnt about some Constructors in Dart and also named arguments in  Functions and/or methods
 
 ---
-##Summary
+## Summary
 Started off in the course with learning about functions and stuff(check ```func.dart```). Then moved on to classes and variables(just some basics, check ```classesnvars.dart```). Learnt some flutter(not much though, check ```scratch```) and then learnt about constructors(check ```constructors.dart```)
 
 **Thanks for reading, Day 1 ends here.**
