@@ -13,4 +13,11 @@
     * Declaring Variables.
     * Declaring Variable DataTypes.
     * Initializing an empty Variable.
- 
+  * Learnt some Flutter(not much though)
+    * Everything is a widget.
+    * Inheritance(not exactly): extending ```StatelessWidget``` to ```MyApp``` class.
+    * ```build()``` Function.
+    * ```MaterialApp(...)``` widget(It's a class)
+    * Named Arguments.
+    * ```Text(...)``` widget.(not much)
+
