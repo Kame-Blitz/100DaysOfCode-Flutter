@@ -7,4 +7,10 @@
     * Specifying Return DataTypes.
     * How is ```print();``` different from ```return```?
     * ```num``` and ```double``` allows both ```int``` and ```double``` or ```float```.
+  * Learnt about Classes and Variables in Dart
+    * What are Classes and Variables?
+    * Properties and Type Inference.
+    * Declaring Variables.
+    * Declaring Variable DataTypes.
+    * Initializing an empty Variable.
  
