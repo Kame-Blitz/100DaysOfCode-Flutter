@@ -23,3 +23,9 @@
     * Running the app.
   * Learnt about some Constructors in Dart and also named arguments in  Functions and/or methods
 
+---
+##Summary
+Started off in the course with learning about functions and stuff(check ```func.dart```). Then moved on to classes and variables(just some basics, check ```classesnvars.dart```). Learnt some flutter(not much though, check ```scratch```) and then learnt about constructors(check ```constructors.dart```)
+
+**Thanks for reading, Day 1 ends here.**
+
