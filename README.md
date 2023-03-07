@@ -20,4 +20,5 @@
     * ```MaterialApp(...)``` widget(It's a class)
     * Named Arguments.
     * ```Text(...)``` widget.(not much)
+    * Running the app.
 
