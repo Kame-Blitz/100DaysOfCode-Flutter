@@ -1,5 +1,5 @@
 # Day 1 - 7th March, 2023
-**Learning Dart(and perhaps some FLutter)** - It was quite easy for me as I knew some Dart beforehand.
+**Learning Dart(and perhaps some Flutter)** - It was quite easy for me as I knew some Dart beforehand.
   * Learnt about Functions in Dart 
     * What are Functions?
     * Specifying DataTypes of Arguments.
