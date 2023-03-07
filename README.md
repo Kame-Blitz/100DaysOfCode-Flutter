@@ -1,10 +1,10 @@
-# 100DaysOfCode-Flutter
-100 days of code in Flutter. Starting from 7th March, 2023!
-<hr></hr>
-<b>Day 1</b>
-<hr></hr>
-* Learnt about Functions in Dart 
-  - What is a Function?
-  - Specifying return DataType
-  - Specifying Input DataType
-  
+# Day 1 - 7th March, 2023
+---
+**Learning Dart** - It was quite easy for me as I knew some Dart beforehand.
+  * Learnt about Functions in Dart 
+    * What are Functions?
+    * Specifying DataTypes of Arguments.
+    * Specifying Return DataTypes.
+    * How is ```print();``` different from ```return```?
+    * ```num``` and ```double``` allows both ```int``` and ```double``` or ```float```.
+ 
