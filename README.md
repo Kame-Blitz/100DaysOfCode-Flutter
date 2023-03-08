@@ -6,6 +6,7 @@
     * ```Column()``` Widget.
     * ```ElevatedButton()``` Widget.
     * ```Stateful``` Widget.
+    * ```setState()``` Widget
 * Dart
     * Lists.
     * Anonymous Functions.
