@@ -1,3 +1,4 @@
-# 100DaysOfCode-Flutter
-100 days of code in Flutter. Starting from 7th March, 2023!
-Click on the branches to move on to a specific Day!
+# Day 2 - 8th March, 2023
+
+* Flutter
+    * ```Scaffold()``` widget.
