@@ -1,5 +1,10 @@
 # Day 2 - 8th March, 2023
 
 * Flutter
-    * ```Scaffold()``` widget.
+    * ```Scaffold()``` Widget.
     * Visible, Invisible and Hybrid Widgets.
+    * ```Column()``` Widget.
+    * ```ElevatedButton()``` Widget.
+* Dart
+    * Lists.
+    
