@@ -10,3 +10,6 @@
     * Centering the ```Text()``` Widget.(```pad2/qs.dart```)
     * To run ```pad4/main.dart```, you will also need ```pad3/qs.dart```.
     * Mapping Lists to Widgets.
+    
+ ## Summary
+ Things seemed to be quite confusing today especially mapping lists to widget and how a final is different from a constant, though I was able to pull it off. I liked seeing the app come in action(well, almost). I will complete this app by tomorrow(hopefully).
