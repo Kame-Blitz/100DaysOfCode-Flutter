@@ -4,3 +4,4 @@
     * Private Properties.(```pad1/main.dart```)
 * Flutter
     * Creating a custom widget.(```pad1/qs.dart```)
+    * Centering the ```Text()``` Widget.(```pad2/qs.dart```)
