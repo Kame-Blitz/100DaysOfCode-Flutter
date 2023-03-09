@@ -6,3 +6,4 @@
 * Flutter
     * Creating a custom widget.(```pad1/qs.dart```)
     * Centering the ```Text()``` Widget.(```pad2/qs.dart```)
+    * To run ```pad4/main.dart```, you will also need ```pad3/qs.dart```.
