@@ -5,3 +5,7 @@
   * Null and Null Safety.(```pad2/pad2.dart```)
 * Flutter
   * Returning widgets conditionally.(```pad3/pad3.dart```)
+
+## Summary
+
+Completed first app with Flutter. Check ```no2/```.
